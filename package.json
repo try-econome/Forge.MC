@@ -3,6 +3,7 @@
   "version": "1.2.0",
   "description": "A Extension That Uses Minecraft Server Checking Software",
   "main": "dist/index.js",
+  "express-extension": false,
   "devDependencies": {
     "@tryforge/forgescript": "^1.4.0",
     "@types/node": "^22.7.4",
